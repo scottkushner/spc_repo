@@ -1,0 +1,10 @@
+es:
+  hyrax:
+    icons:
+      peacock_scholarship:     'fa fa-file-text-o'
+    select_type:
+      peacock_scholarship:
+        # TODO: translate `human_name` into Spanish
+        description:        "Peacock scholarship trabajos"
+        name:               "Peacock Scholarship"
+        # TODO: translate `human_name` into Spanish

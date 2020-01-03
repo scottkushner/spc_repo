@@ -1,0 +1,8 @@
+de:
+  hyrax:
+    icons:
+      frank_j_guarini_archive:     'fa fa-file-text-o'
+    select_type:
+      frank_j_guarini_archive:
+        description:        "Frank j guarini archive Werke"
+        name:               "Frank J Guarini Archive"

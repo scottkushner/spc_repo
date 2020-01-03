@@ -1,0 +1,8 @@
+# Generated via
+#  `rails generate hyrax:work SaintPetersArchivalPhoto
+`
+module Hyrax
+  class SaintPetersArchivalPhoto
+Presenter < Hyrax::WorkShowPresenter
+  end
+end

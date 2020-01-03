@@ -1,0 +1,27 @@
+{
+  "name": "pul_uv_rails",
+  "version": "1.7.27",
+  "homepage": "https://github.com/pulibrary/pul_uv_rails",
+  "authors": [
+    "Eliot Jordan <eliot.jordan@gmail.com>"
+  ],
+  "description": "PUL Universal Viewer.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "universal viewer"
+  ],
+  "license": "Apache2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "universalviewer": "pulibrary/universalviewer#pulibrary_dev_updated"
+  }
+}

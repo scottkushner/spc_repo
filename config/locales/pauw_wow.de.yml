@@ -1,0 +1,8 @@
+de:
+  hyrax:
+    icons:
+      pauw_wow:     'fa fa-file-text-o'
+    select_type:
+      pauw_wow:
+        description:        "Pauw wow Werke"
+        name:               "Pauw Wow"

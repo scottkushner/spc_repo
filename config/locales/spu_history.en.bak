@@ -1,0 +1,8 @@
+en:
+  hyrax:
+    icons:
+      spu_history:     'fa fa-file-text-o'
+    select_type:
+      spu_history:
+        description:        "Spu history works"
+        name:               "Spu History"

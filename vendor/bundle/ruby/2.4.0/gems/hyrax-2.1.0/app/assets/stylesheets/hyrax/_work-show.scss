@@ -1,0 +1,86 @@
+.related-files {
+  .thumbnail {
+    width: $related-files-thumbnail-width;
+  }
+}
+
+.no-preview,
+.social-media {
+  padding: $panel-body-padding;
+}
+
+header > h1 .label {
+  font-size: $font-size-base;
+  vertical-align: middle;
+}
+
+.citations {
+  padding: $panel-body-padding;
+}
+
+.relationships,
+.attributes {
+  tbody th {
+    width: 20%;
+  }
+  ul.tabular {
+    padding-left: 0px;
+  }
+}
+
+ul.tabular {
+  list-style: none;
+}
+
+.show-actions {
+  padding: $panel-body-padding;
+  // text-align: center;
+}
+
+.work-show {
+  dt,
+  dd {
+    padding: 2px;
+  }
+  dd {
+    margin-left: 6px;
+  }
+}
+
+.work-type-tag {
+  color: #808080;
+}
+
+.work-type {
+  margin-bottom: 18px;
+  margin-top: -8px;
+
+  .panel-body {
+    .work_description,
+    li.attribute {
+      word-break: break-word;
+    }
+  }
+}
+
+.panel-workflow {
+  background: #fff;
+  border-color: #e0e0e0;
+
+  .panel-heading {
+    background-color: #e6ab5f;
+    color: #ffffff;
+
+    a {
+      color: #ffffff;
+    }
+  }
+
+  .panel-body {
+    background-color: #f2f1eb;
+  }
+}
+
+.workflow-actions {
+  background-color: #f8f8f8;
+}

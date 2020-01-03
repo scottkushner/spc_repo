@@ -1,0 +1,10 @@
+es:
+  hyrax:
+    icons:
+      saint_peters_archival_photo:     'fa fa-file-text-o'
+    select_type:
+      saint_peters_archival_photo:
+        # TODO: translate `human_name` into Spanish
+        description:        "Saint peters archival photo trabajos"
+        name:               "Saint Peters Archival Photo"
+        # TODO: translate `human_name` into Spanish

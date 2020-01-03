@@ -1,0 +1,10 @@
+zh:
+  hyrax:
+    icons:
+      the_pavan:     'fa fa-file-text-o'
+    select_type:
+      the_pavan:
+        # TODO: translate `human_name` into Chinese
+        description:        "The pavan 作品"
+        name:               "The Pavan"
+        # TODO: translate `human_name` into Chinese

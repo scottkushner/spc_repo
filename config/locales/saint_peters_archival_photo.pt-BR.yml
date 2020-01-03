@@ -1,0 +1,8 @@
+pt-BR:
+  hyrax:
+    icons:
+      saint_peters_archival_photo:     'fa fa-file-text-o'
+    select_type:
+      saint_peters_archival_photo:
+        description:        "Saint peters archival photo trabalhos"
+        name:               "Saint Peters Archival Photo"

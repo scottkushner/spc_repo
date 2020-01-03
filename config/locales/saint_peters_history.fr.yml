@@ -1,0 +1,8 @@
+fr:
+  hyrax:
+    icons:
+      saint_peters_history:     'fa fa-file-text-o'
+    select_type:
+      saint_peters_history:
+        description:        "Saint peters history œuvres"
+        name:               "Saint Peters History"

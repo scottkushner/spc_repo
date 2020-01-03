@@ -1,0 +1,8 @@
+2018-10-31 12:50:31 - ERROR - MetadataExtractor:110 - NLNZ Metadata Extractor error while harvesting file: java.io.IOException
+2018-10-31 12:50:31 - ERROR - ToolBase:271 - Caught exception running tool: MetadataExtractor
+edu.harvard.hul.ois.fits.exceptions.FitsToolException: NLNZ Metadata Extractor error while harvesting file weidong3.pdf (Error converting date:6th December 2012)
+	at edu.harvard.hul.ois.fits.tools.nlnz.MetadataExtractor.extractInfo(MetadataExtractor.java:111)
+	at edu.harvard.hul.ois.fits.tools.ToolBase.run(ToolBase.java:268)
+	at java.lang.Thread.run(Thread.java:748)
+2019-01-28 16:35:08 - ERROR - FlateFilter:107 - FlateFilter: stop reading corrupt stream due to a DataFormatException
+2019-01-28 16:40:08 - ERROR - FlateFilter:107 - FlateFilter: stop reading corrupt stream due to a DataFormatException

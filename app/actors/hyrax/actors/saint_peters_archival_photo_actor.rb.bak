@@ -1,0 +1,8 @@
+# Generated via
+#  `rails generate hyrax:work SaintPetersArchivalPhoto`
+module Hyrax
+  module Actors
+    class SaintPetersArchivalPhotoActor < Hyrax::Actors::BaseActor
+    end
+  end
+end

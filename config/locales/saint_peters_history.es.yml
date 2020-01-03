@@ -1,0 +1,10 @@
+es:
+  hyrax:
+    icons:
+      saint_peters_history:     'fa fa-file-text-o'
+    select_type:
+      saint_peters_history:
+        # TODO: translate `human_name` into Spanish
+        description:        "Saint peters history trabajos"
+        name:               "Saint Peters History"
+        # TODO: translate `human_name` into Spanish

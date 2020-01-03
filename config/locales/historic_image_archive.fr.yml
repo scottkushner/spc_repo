@@ -1,0 +1,8 @@
+fr:
+  hyrax:
+    icons:
+      historic_image_archive:     'fa fa-file-text-o'
+    select_type:
+      historic_image_archive:
+        description:        "Historic image archive œuvres"
+        name:               "Historic Image Archive"

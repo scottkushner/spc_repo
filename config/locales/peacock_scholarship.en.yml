@@ -1,0 +1,8 @@
+en:
+  hyrax:
+    icons:
+      peacock_scholarship:     'fa fa-file-text-o'
+    select_type:
+      peacock_scholarship:
+        description:        "Peacock scholarship works"
+        name:               "Peacock Scholarship"

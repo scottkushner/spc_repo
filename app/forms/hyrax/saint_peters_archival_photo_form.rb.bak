@@ -1,0 +1,13 @@
+# Generated via
+#  `rails generate hyrax:work SaintPetersArchivalPhoto
+`
+module Hyrax
+  # Generated form for SaintPetersArchivalPhoto
+
+  class SaintPetersArchivalPhoto
+Form < Hyrax::Forms::WorkForm
+    self.model_class = ::SaintPetersArchivalPhoto
+
+    self.terms += [:resource_type]
+  end
+end

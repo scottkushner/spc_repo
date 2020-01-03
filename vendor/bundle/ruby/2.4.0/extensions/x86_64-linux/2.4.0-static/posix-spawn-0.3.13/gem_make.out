@@ -1,0 +1,24 @@
+current directory: /var/www/hyrax/spc_repo/vendor/bundle/ruby/2.4.0/gems/posix-spawn-0.3.13/ext
+/home/skushner/.rbenv/versions/2.4.2/bin/ruby -r ./siteconf20180725-8172-1djm36j.rb extconf.rb
+creating Makefile
+
+current directory: /var/www/hyrax/spc_repo/vendor/bundle/ruby/2.4.0/gems/posix-spawn-0.3.13/ext
+make "DESTDIR=" clean
+
+current directory: /var/www/hyrax/spc_repo/vendor/bundle/ruby/2.4.0/gems/posix-spawn-0.3.13/ext
+make "DESTDIR="
+compiling posix-spawn.c
+posix-spawn.c: In function ‘rb_posixspawn_pspawn’:
+posix-spawn.c:349:2: warning: ISO C90 forbids mixed declarations and code [-Wdeclaration-after-statement]
+  long argc = RARRAY_LEN(argv);
+  ^
+posix-spawn.c: At top level:
+cc1: warning: unrecognized command line option "-Wno-self-assign"
+cc1: warning: unrecognized command line option "-Wno-constant-logical-operand"
+cc1: warning: unrecognized command line option "-Wno-parentheses-equality"
+cc1: warning: unrecognized command line option "-Wno-tautological-compare"
+linking shared-object posix_spawn_ext.so
+
+current directory: /var/www/hyrax/spc_repo/vendor/bundle/ruby/2.4.0/gems/posix-spawn-0.3.13/ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 posix_spawn_ext.so ./.gem.20180725-8172-1r3sonj

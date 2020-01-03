@@ -1,0 +1,10 @@
+es:
+  hyrax:
+    icons:
+      pauw_wow:     'fa fa-file-text-o'
+    select_type:
+      pauw_wow:
+        # TODO: translate `human_name` into Spanish
+        description:        "Pauw wow trabajos"
+        name:               "Pauw Wow"
+        # TODO: translate `human_name` into Spanish

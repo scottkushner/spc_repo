@@ -1,0 +1,10 @@
+zh:
+  hyrax:
+    icons:
+      frank_j_guarini_archive:     'fa fa-file-text-o'
+    select_type:
+      frank_j_guarini_archive:
+        # TODO: translate `human_name` into Chinese
+        description:        "Frank j guarini archive 作品"
+        name:               "Frank J Guarini Archive"
+        # TODO: translate `human_name` into Chinese

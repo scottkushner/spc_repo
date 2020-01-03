@@ -1,0 +1,8 @@
+fr:
+  hyrax:
+    icons:
+      the_pavan:     'fa fa-file-text-o'
+    select_type:
+      the_pavan:
+        description:        "The pavan œuvres"
+        name:               "The Pavan"

@@ -1,0 +1,10 @@
+es:
+  hyrax:
+    icons:
+      frank_j_guarini_archive:     'fa fa-file-text-o'
+    select_type:
+      frank_j_guarini_archive:
+        # TODO: translate `human_name` into Spanish
+        description:        "Frank j guarini archive trabajos"
+        name:               "Frank J Guarini Archive"
+        # TODO: translate `human_name` into Spanish
